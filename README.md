@@ -1,7 +1,8 @@
+
 <div id="user-content-header" align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 100px;">
         <a target="_blank" rel="noopener noreferrer nofollow"
-href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966"
+           href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966"
            data-target="animated-image.originalLink">
             <img
                 src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg"
@@ -39,14 +40,14 @@ href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1ca
 <img src="https://static.swissdevjobs.ch/pictures/software-developer-germany.svg" align="right" alt="Girl in a jacket"
      width="400">
 <ul dir="auto" align="left">
-<li>👉 Web Developer at Esterox</li>
-<li>👉 I'm a backend developer, but I also work with JavaScript</li>
-<li>👉 In my free time, I develop read tech articles </li>
-<li>📫How to reach me: <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
+    <li>👉 Web Developer at Esterox</li>
+    <li>👉 I'm a backend developer, but I also work with JavaScript</li>
+    <li>👉 In my free time, I develop read tech articles </li>
+    <li>📫How to reach me: <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
 </ul>
 <h1>Top Languages</h1>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lus860&hide_progress=true&theme=vision-friendly-dark" alt="Top Languages">
-    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lus860&hide_progress=true&theme=vision-friendly-dark" alt="Top Languages">
+
 <h3 dir="auto" align="left"><a id="user-content-computer-languages-frameworks-and-libraries" class="anchor" aria-hidden="true" tabindex="-1" href="#computer-languages-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Languages, Frameworks, and Libraries:</h3>
 <div dir="auto" align="left">
     <div dir="auto">
