@@ -2,7 +2,7 @@
 <div id="user-content-header" align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 100px;">
         <a target="_blank" rel="noopener noreferrer nofollow"
-           href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966"
+href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966"
            data-target="animated-image.originalLink">
             <img
                 src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg"
