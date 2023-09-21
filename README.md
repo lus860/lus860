@@ -44,7 +44,65 @@ href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1ca
 <li>👉 In my free time, I develop read tech articles </li>
 <li>📫How to reach me: <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
 </ul>
-<p dir="auto"><a href="https://github.com/vahe-dev/github-readme-stats"><img src="https://camo.githubusercontent.com/48ff25dcab31c3cebc700293ff8001ee548389a9e5d50102849fea3bb449d616/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d766168652d646576266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahe-dev&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;"></a></p>
+<div class="BorderGrid-cell">
+                <h2 class="h4 mb-3">Languages</h2>
+<div class="mb-2">
+  <span data-view-component="true" class="Progress">
+    <span style="background-color:#4F5D95 !important;;width: 83.3%;" itemprop="keywords" aria-label="PHP 83.3" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#563d7c !important;;width: 11.8%;" itemprop="keywords" aria-label="CSS 11.8" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#41b883 !important;;width: 2.9%;" itemprop="keywords" aria-label="Vue 2.9" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#f1e05a !important;;width: 1.9%;" itemprop="keywords" aria-label="JavaScript 1.9" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#ededed !important;;width: 0.1%;" itemprop="keywords" aria-label="Other 0.1" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+</span></div>
+<ul class="list-style-none">
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/lus860/code_example/search?l=php" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#4F5D95;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">PHP</span>
+          <span>83.3%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/lus860/code_example/search?l=css" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#563d7c;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">CSS</span>
+          <span>11.8%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/lus860/code_example/search?l=vue" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#41b883;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">Vue</span>
+          <span>2.9%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+        <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/lus860/code_example/search?l=javascript" data-ga-click="Repository, language stats search click, location:repo overview">
+          <svg style="color:#f1e05a;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+          <span class="color-fg-default text-bold mr-1">JavaScript</span>
+          <span>1.9%</span>
+        </a>
+    </li>
+    <li class="d-inline">
+      <span class="d-inline-flex flex-items-center flex-nowrap text-small mr-3">
+        <svg style="color:#ededed;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
+    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
+</svg>
+        <span class="color-fg-default text-bold mr-1">Other</span>
+        <span>0.1%</span>
+      </span>
+    </li>
+</ul>
+
+              </div>
 <h3 dir="auto" align="left"><a id="user-content-computer-languages-frameworks-and-libraries" class="anchor" aria-hidden="true" tabindex="-1" href="#computer-languages-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Languages, Frameworks, and Libraries:</h3>
 <div dir="auto" align="left">
     <div dir="auto">
