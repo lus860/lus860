@@ -52,7 +52,7 @@ href="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1ca
 <div dir="auto" align="left">
     <div dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="HTML5" alt="Javascript" width="40" height="40" style="max-width: 100%;"></a>
+         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" style="max-width: 100%;"></a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a> &nbsp;
     </div>
